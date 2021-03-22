@@ -1,5 +1,6 @@
 # Arcade Game Stats Analysis
 **[Statistics on a Blockbreaker-like Game, Todd D. Vance]**
+
 The author is in the process of creating a blockbreaker-like game, in which the jumping-off point is the "Block Breaker" section of the Udemy course, [Complete C# Unity Developer 2D: Learn to Code Making Games]
 
 After making lots of levels, the author needed to sort them by difficulty. How does one measure the difficulty of a level? A first-cut solution is
@@ -68,6 +69,6 @@ Following are the contributors for the task. Names and their github links are pr
    [Here is a video]: <https://youtu.be/AVHsnsCWcU4>
    [Statistics on a Blockbreaker-like Game, Todd D. Vance]: <https://www.kaggle.com/depmountaineer/arcade-game-stats>
    [udara-kw]: <https://github.com/udara-kw>
-   [KLARajapaksha]: <https://github.com/KLRajapaksha>
+   [KLRajapaksha]: <https://github.com/KLRajapaksha>
    [YasiruAyesh97]: <https://github.com/YasiruAyesh97>
    [yasiruPadmasiri]: <https://github.com/yasiruPadmasiri>
