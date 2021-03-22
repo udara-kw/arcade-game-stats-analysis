@@ -62,7 +62,7 @@ Following are the contributors for the task. Names and their github links are pr
 | Weerasinghe U. K. | [udara-kw] |
 | Rajapaksha K. L. A. | [KLRajapaksha] |
 | Ayeshmantha W. G. Y. | [YasiruAyesh97] |
-| Uvindu Ishara M. W. K. |  |
+| Uvindu Ishara M. W. K. | [uvinduishara] |
 | Padmasiri O. K. D. Y. | [yasiruPadmasiri] |
 
    [Complete C# Unity Developer 2D: Learn to Code Making Games]: <https://www.udemy.com/share/1000PUA0EacVlURH4=/>
@@ -71,4 +71,5 @@ Following are the contributors for the task. Names and their github links are pr
    [udara-kw]: <https://github.com/udara-kw>
    [KLRajapaksha]: <https://github.com/KLRajapaksha>
    [YasiruAyesh97]: <https://github.com/YasiruAyesh97>
+   [uvinduishara]: <https://github.com/uvinduishara>
    [yasiruPadmasiri]: <https://github.com/yasiruPadmasiri>
