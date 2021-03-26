@@ -60,7 +60,7 @@ Following are the contributors for the task. Names and their github links are pr
 | Index No | Name |
 | ------ | ------ |
 | Weerasinghe U. K. | [udara-kw] |
-| Rajapaksha K. L. A. | [KLRajapaksha] |
+| Rajapaksha K. L. | [KLRajapaksha] |
 | Ayeshmantha W. G. Y. | [YasiruAyesh97] |
 | Uvindu Ishara M. W. K. | [uvinduishara] |
 | Padmasiri O. K. D. Y. | [yasiruPadmasiri] |
